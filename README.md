@@ -1,14 +1,2 @@
-<html lang="en">
-
-<head>
-<style>
-h1{color:red;}
-</style>
-
-</head>
-
-<body>
-    <h1>Amjad Shahzad</h1>
-</body>
-
-</html>
+<h1>Amjad Shahzad</h1>
+<h2>I am a Graphic Designer and Web Developer </h2>
