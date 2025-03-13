@@ -1,10 +1,9 @@
 <html lang="en">
 
 <head>
-
-    <style>
-    h1{color:red;}
-    </style>
+<style>
+h1{color:red;}
+</style>
 
 </head>
 
